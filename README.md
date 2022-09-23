@@ -1,6 +1,6 @@
 # EMLO V3 - Session 03
 
-## 03 - Use DVC and push to gdrive, Optuna hyperparams Sweep, Tensorboard 
+## DVC and push to gdrive, Optuna hyperparams Sweep, Tensorboard 
 
 * Optuna Hyperparam sweep (Grid search for hyperparameters)
 * Adding hp_metrics and per step logging in Tensorboard
